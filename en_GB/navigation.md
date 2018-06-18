@@ -64,3 +64,4 @@
 <!--
 [gimmick:themechooser](Choose theme)
 -->
+[gimmick:theme](flatly)
