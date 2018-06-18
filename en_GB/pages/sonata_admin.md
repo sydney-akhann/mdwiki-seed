@@ -1,4 +1,3 @@
-{% raw %}
 # Sonata Admin cheatsheet
 
 ## Generate admin URL
@@ -108,4 +107,3 @@ class CRUDController extends Controller
 </div>
 {% endblock %}
 ```
-{% endraw %}
