@@ -69,7 +69,7 @@ class CRUDController extends Controller
 }
 ```
 
-2. Register Controller
+### 2. Register Controller
 
 ```yaml
     admin.sales_order:
@@ -81,7 +81,7 @@ class CRUDController extends Controller
             - { name: sonata.admin, manager_type: orm, label: Sales Orders, group: app.admin.group.content, label_catalogue: "HermesCoreBundle" }
 ```
 
-3. Custom Edit Template
+### 3. Custom Edit Template
 
 ```twig
 {% extends base_template %}
