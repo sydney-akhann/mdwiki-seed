@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Sydney Wiki
 
 
 <!--
@@ -19,6 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+[Sonata Admin](pages/sonata_admin.md)
 [About](pages/about.md)
 [Download](pages/download.md)
 
